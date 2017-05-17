@@ -1,6 +1,6 @@
 /**
  * Created by Rushu on 5/16/2017.
- * Method basic
+ * Method basic and overloading
  */
 public class class08 {
 

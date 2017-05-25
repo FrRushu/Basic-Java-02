@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by Rushu on 5/25/2017.
- * for statement
+ * for, while , do while statement
  */
 public class class11 {
 

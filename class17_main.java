@@ -1,7 +1,7 @@
 package Polymorphism;
 /**
  * Created by Rushu on 5/27/2017.
- * Polymorphism in java
+ * Polymorphism in java  basic example
  */
 class movie{
     private String name;
@@ -102,7 +102,7 @@ public class class17_main {
 
             case 4:
                 return new starWars();
-
+ 
             case 5:
                 return new wolfOfWallStreet();
 
